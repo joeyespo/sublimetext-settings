@@ -1,0 +1,14 @@
+{
+    "auto_upgrade_last_run": null,
+    "installed_packages":
+    [
+        "Caret History",
+        "CoffeeScript",
+        "ConsoleExec",
+        "Git",
+        "OmniMarkupPreviewer",
+        "Package Control",
+        "SublimeCodeIntel",
+        "SublimeLinter"
+    ]
+}

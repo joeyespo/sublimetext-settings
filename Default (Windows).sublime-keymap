@@ -1,0 +1,23 @@
+[
+    // Editor tweaks
+    { "keys": ["ctrl+right"], "command": "move", "args": {"by": "words", "forward": true} },
+    { "keys": ["ctrl+shift+right"], "command": "move", "args": {"by": "words", "forward": true, "extend": true} },
+    { "keys": ["ctrl+shift+g"], "command": "show_overlay", "args": {"overlay": "goto", "text": "@"} },
+    { "keys": ["ctrl+shift+o"], "command": "show_overlay", "args": {"overlay": "goto", "show_files": true} },
+    { "keys": ["f5"], "command": "show_overlay", "args": {"overlay": "command_palette"} },
+    { "keys": ["ctrl+f5"], "command": "build" },
+
+    { "keys": ["ctrl+y"], "command": "redo" },
+
+    { "keys": ["ctrl+shift+c"], "command": "show_overlay", "args": {"overlay": "command_palette"} },
+    
+    { "keys": ["ctrl+u"], "command": "title_case" },
+    { "keys": ["ctrl+shift+u"], "command": "upper_case" },
+    { "keys": ["ctrl+alt+shift+u"], "command": "lower_case" },
+
+    { "keys": ["ctrl+0"], "command": "reset_font_size" },
+
+    // Sublime Code Intel
+    { "keys": ["f12"], "command": "goto_python_definition" },
+    { "keys": ["ctrl+f3"], "command": "find_under" }
+]

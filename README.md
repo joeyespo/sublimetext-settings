@@ -23,7 +23,7 @@ Installation
 Visit your Sublime Text `Packages` directory and clone this repository:
 
 ```bash
-git clone https://github.com/joeyespo/sublime-text-2-settings.git User
+git clone https://github.com/joeyespo/sublimetext-settings.git User
 ```
 
 

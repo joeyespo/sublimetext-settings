@@ -33,7 +33,6 @@ Installed packages
 Here is a list of the installed packages. See [Package Control][] for how
 to install Sublime Text packages.
 
-- [Caret History][]
 - [CoffeeScript][]
 - [Console Exec][]
 - [Git][]
@@ -45,7 +44,6 @@ to install Sublime Text packages.
 
 [joeyespo]: http://github.com/joeyespo
 [Sublime Text]: http://www.sublimetext.com
-[Caret History]: https://github.com/FichteFoll/Caret-History
 [CoffeeScript]: http://xavura.github.com/CoffeeScript-Sublime-Plugin
 [Console Exec]:https://github.com/joeyespo/sublimetext-console-exec
 [Git]:https://github.com/kemayo/sublime-text-2-git
